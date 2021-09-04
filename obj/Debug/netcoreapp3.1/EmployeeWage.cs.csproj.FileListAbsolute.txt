@@ -1,0 +1,14 @@
+C:\Users\pihu\source\repos\EmployeeWage.cs\EmployeeWage.cs\obj\Debug\netcoreapp3.1\EmployeeWage.cs.csproj.AssemblyReference.cache
+C:\Users\pihu\source\repos\EmployeeWage.cs\EmployeeWage.cs\obj\Debug\netcoreapp3.1\EmployeeWage.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pihu\source\repos\EmployeeWage.cs\EmployeeWage.cs\obj\Debug\netcoreapp3.1\EmployeeWage.cs.AssemblyInfoInputs.cache
+C:\Users\pihu\source\repos\EmployeeWage.cs\EmployeeWage.cs\obj\Debug\netcoreapp3.1\EmployeeWage.cs.AssemblyInfo.cs
+C:\Users\pihu\source\repos\EmployeeWage.cs\EmployeeWage.cs\obj\Debug\netcoreapp3.1\EmployeeWage.cs.csproj.CoreCompileInputs.cache
+C:\Users\pihu\source\repos\EmployeeWage.cs\EmployeeWage.cs\bin\Debug\netcoreapp3.1\EmployeeWage.cs.exe
+C:\Users\pihu\source\repos\EmployeeWage.cs\EmployeeWage.cs\bin\Debug\netcoreapp3.1\EmployeeWage.cs.deps.json
+C:\Users\pihu\source\repos\EmployeeWage.cs\EmployeeWage.cs\bin\Debug\netcoreapp3.1\EmployeeWage.cs.runtimeconfig.json
+C:\Users\pihu\source\repos\EmployeeWage.cs\EmployeeWage.cs\bin\Debug\netcoreapp3.1\EmployeeWage.cs.runtimeconfig.dev.json
+C:\Users\pihu\source\repos\EmployeeWage.cs\EmployeeWage.cs\bin\Debug\netcoreapp3.1\EmployeeWage.cs.dll
+C:\Users\pihu\source\repos\EmployeeWage.cs\EmployeeWage.cs\bin\Debug\netcoreapp3.1\EmployeeWage.cs.pdb
+C:\Users\pihu\source\repos\EmployeeWage.cs\EmployeeWage.cs\obj\Debug\netcoreapp3.1\EmployeeWage.cs.dll
+C:\Users\pihu\source\repos\EmployeeWage.cs\EmployeeWage.cs\obj\Debug\netcoreapp3.1\EmployeeWage.cs.pdb
+C:\Users\pihu\source\repos\EmployeeWage.cs\EmployeeWage.cs\obj\Debug\netcoreapp3.1\EmployeeWage.cs.genruntimeconfig.cache
